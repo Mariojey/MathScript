@@ -7,7 +7,7 @@ function findNextChar(args) {
     }
     return args;
 }
-//Funkcja wyświetlająca dziedzinę
+//Funkcja wyświetlająca dziedzinę 
 function findDifferentChar(array) {
 
     let resTab = []
